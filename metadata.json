@@ -1,0 +1,6 @@
+{
+  "name": "SiTabung - Sistem Tabungan Siswa",
+  "description": "Aplikasi sistem tabungan siswa SMP Muhammadiyah 6 Tambakboyo berbasis web untuk admin sekolah dan wali murid dengan fitur setor, tarik, mutasi saldo, dan cetak buku tabungan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
